@@ -45,4 +45,4 @@ volumes:
 
 networks:
   apinetwork:
-    driver: bridgee
+    driver: bridge
